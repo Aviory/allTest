@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcdc9a95-7dba-475c-93f3-ca0200d04f85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mergeBranch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="2Yz2Odkg3T8fg1TABrWngI5rvLc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcdc9a95-7dba-475c-93f3-ca0200d04f85" name="Default Changelist" comment="" />
+      <created>1701514056081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701514056081</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Darth Commit">
+      <created>1701514210812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701514210812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Darth Commit new">
+      <created>1701515566208</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701515566208</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sss">
+      <created>1701515770755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701515770755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1701516511013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701516511013</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Darth Commit" />
+    <MESSAGE value="Darth Commit new" />
+    <MESSAGE value="sss" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1306" y="103" key="CommitChangelistDialog2" timestamp="1701517148611">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1306" y="103" key="CommitChangelistDialog2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701517148611" />
+    <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose" timestamp="1701516523819">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516523819" />
+    <state x="-1920" y="0" key="MergeDialog" timestamp="1701516968261">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" key="MergeDialog/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516968261" />
+    <state x="-910" y="214" key="MultipleFileMergeDialog" timestamp="1701516968272">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-910" y="214" key="MultipleFileMergeDialog/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516968272" />
+    <state x="-1368" y="243" key="Vcs.Push.Dialog.v2" timestamp="1701516519525">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="243" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516519525" />
+    <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701516160686">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516160686" />
+    <state x="-1179" y="234" key="git4idea.branch.GitSmartOperationDialog" timestamp="1701516986621">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1179" y="234" key="git4idea.branch.GitSmartOperationDialog/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516986621" />
+  </component>
+</project>

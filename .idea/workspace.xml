@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcdc9a95-7dba-475c-93f3-ca0200d04f85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="mergeBranch" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +79,28 @@
       <option name="project" value="LOCAL" />
       <updated>1701516511013</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1701516996355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701516996355</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1701517163493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701517163493</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md">
+      <created>1701517236743</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701517236743</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,14 +122,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1306" y="103" key="CommitChangelistDialog2" timestamp="1701517186939">
+    <state x="-1306" y="103" key="CommitChangelistDialog2" timestamp="1701517236247">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1306" y="103" key="CommitChangelistDialog2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701517186939" />
-    <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose" timestamp="1701516523819">
+    <state x="-1306" y="103" key="CommitChangelistDialog2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701517236247" />
+    <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose" timestamp="1701517249266">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516523819" />
+    <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701517249266" />
     <state x="-1920" y="0" key="MergeDialog" timestamp="1701516968261">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -117,10 +138,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-910" y="214" key="MultipleFileMergeDialog/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516968272" />
-    <state x="-1368" y="243" key="Vcs.Push.Dialog.v2" timestamp="1701516519525">
+    <state x="-1368" y="243" key="Vcs.Push.Dialog.v2" timestamp="1701517245481">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1368" y="243" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701516519525" />
+    <state x="-1368" y="243" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1701517245481" />
     <state x="-1151" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701516160686">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>

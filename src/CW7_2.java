@@ -4,10 +4,13 @@ import sendble.Saver;
 public class CW7_2 {
     public static void main(String[] args) {
         NewClass runConsole = new NewClass(new ConsolePrinter());
-        NewClass runSaver = new NewClass(new Saver());
+        Saver saver = new Saver();
+        NewClass runSaver = new NewClass(saver);
 
         runConsole.print("Hello");
         runSaver.print("world");
+        saver.printAllSaveItem();
+        
     }
 
 

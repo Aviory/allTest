@@ -10,7 +10,7 @@ public class Saver implements WherePrintTXT {
     public void send(String txt) {
         arr.add(txt);
     }
-    public void print(){
+    public void printAllSaveItem(){
         for (String str: arr) {
             System.out.println(str);
         }

@@ -1,9 +1,9 @@
 import interfaces.WherePrintTXT;
 
-public class NewClass {
-    private final WherePrintTXT wherePrintTXT;
+public class Worker {
+    private final WherePrintTXT wherePrintTXT;//абстракция
 
-    public NewClass(WherePrintTXT wherePrintTXT) {
+    public Worker(WherePrintTXT wherePrintTXT) {
         this.wherePrintTXT = wherePrintTXT;
     }
 

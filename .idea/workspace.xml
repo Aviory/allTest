@@ -45,6 +45,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="extract.method.default.visibility" value="public" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -187,6 +190,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main' into main&#10;&#10;# Conflicts:&#10;#&#9;README.md" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1368" y="180" key="#Project_Structure" timestamp="1702485599634">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="180" key="#Project_Structure/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1702485599634" />
     <state x="-1155" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1702484836395">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -203,10 +210,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1230" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1702113230742" />
-    <state x="-1306" y="103" key="CommitChangelistDialog2" timestamp="1702120347384">
+    <state x="-1306" y="103" key="CommitChangelistDialog2" timestamp="1702485605363">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1306" y="103" key="CommitChangelistDialog2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1702120347384" />
+    <state x="-1306" y="103" key="CommitChangelistDialog2/0.0.2560.1400/-1920.0.1920.1040/3840.0.2560.1400@-1920.0.1920.1040" timestamp="1702485605363" />
     <state x="-1100" y="443" key="Github.Dialog.Accounts.Choose" timestamp="1702120358356">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>

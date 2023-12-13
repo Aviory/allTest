@@ -3,7 +3,8 @@ import sendble.Saver;
 
 public class CW7_2 {
     public static void main(String[] args) {
-        Worker runConsole = new Worker(new ConsolePrinter());
+        ConsolePrinter consolePrinter = ConsolePrinter.getInstance();
+        Worker runConsole = new Worker(consolePrinter);
         Saver saver = new Saver();
         Worker runSaver = new Worker(saver);
 

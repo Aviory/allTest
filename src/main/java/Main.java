@@ -1,7 +1,15 @@
 import views.MainScreen;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
 public class Main {
     public static void main(String[] args) {
-        new MainScreen();
+        new MainScreen(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+            }
+        });
     }
 }
